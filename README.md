@@ -8,4 +8,4 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/cowqer/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-[![seekyou's github activity graph](https://activity-graph.herokuapp.com/graph?username=cowqer&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![cowqer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cowqer&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
