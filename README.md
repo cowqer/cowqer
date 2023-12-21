@@ -3,7 +3,8 @@
 - 🧑 Student from China
 - 💬 Ask me about anything related to Linux/Python.
 - 🌱 Do not fear the infinite truth, for with each step forward comes a new joy.
-You are my ![Visitor Count](https://profile-counter.glitch.me/cowqer/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+My ![Visitor Count](https://profile-counter.glitch.me/cowqer/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=ffffff)
