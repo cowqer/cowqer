@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm seekyou.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Print(%22Hello+from+seekyou!%22))](https://git.io/typing-svg)
 - 🧑 Student from China
 - 💬 Ask me about anything related to Linux/Python.
 - 🌱 Do not fear the infinite truth, for with each step forward comes a new joy.
