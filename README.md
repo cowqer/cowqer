@@ -13,4 +13,4 @@
 
 ### ☎️ Contact me
 - <img src="./icons/mail.svg"> [Email](quancui.xtu@gmail.com)
-- <img src="./icons/article.svg"> [Blog](https://cq.seekyou.top/)
+- <img src="./icons/article.svg"> [Blog](https://cq.seekyou.fun/)
